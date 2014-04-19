@@ -1,0 +1,62 @@
+ExifTool Version Number         : 8.50
+File Name                       : x.mp4
+Directory                       : test/fixtures/files
+File Size                       : 4.8 MB
+File Modification Date/Time     : 2012:03:06 12:32:03+09:00
+File Permissions                : rw-r--r--
+File Type                       : MP4
+MIME Type                       : video/mp4
+Major Brand                     : MP4 v2 [ISO 14496-14]
+Minor Version                   : 0.0.0
+Compatible Brands               : isom, avc1, mp42
+Movie Header Version            : 0
+Create Date                     : 2010:02:23 05:29:01
+Modify Date                     : 2010:02:23 05:29:01
+Time Scale                      : 600
+Duration                        : 18.02 s
+Preferred Rate                  : 1
+Preferred Volume                : 100.00%
+Preview Time                    : 0 s
+Preview Duration                : 0 s
+Poster Time                     : 0 s
+Selection Time                  : 0 s
+Selection Duration              : 0 s
+Current Time                    : 0 s
+Next Track ID                   : 3
+Track Header Version            : 0
+Track Create Date               : 2010:02:23 05:29:01
+Track Modify Date               : 2010:02:23 05:29:01
+Track ID                        : 1
+Track Duration                  : 18.00 s
+Track Layer                     : 0
+Track Volume                    : 100.00%
+Balance                         : 0
+Audio Format                    : mp4a
+Audio Channels                  : 2
+Audio Bits Per Sample           : 16
+Audio Sample Rate               : 44100
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Image Width                     : 1280
+Image Height                    : 720
+Media Header Version            : 0
+Media Create Date               : 2010:02:23 05:29:01
+Media Modify Date               : 2010:02:23 05:29:01
+Media Time Scale                : 30000
+Media Duration                  : 18.02 s
+Media Language Code             : und
+Handler Description             : (C) 2007 Google Inc. v08.13.2007.
+Graphics Mode                   : srcCopy
+Op Color                        : 0 0 0
+Compressor ID                   : avc1
+Source Image Width              : 1280
+Source Image Height             : 720
+X Resolution                    : 72
+Y Resolution                    : 72
+Bit Depth                       : 24
+Video Frame Rate                : 29.97
+Handler Type                    : Metadata
+Handler Vendor ID               : Apple
+Movie Data Size                 : 5074148
+Avg Bitrate                     : 2.25 Mbps
+Image Size                      : 1280x720
+Rotation                        : 0
