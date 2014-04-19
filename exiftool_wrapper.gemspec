@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ExiftoolWrapper::VERSION
   spec.authors       = ["SHIBATA Hiroshi"]
   spec.email         = ["hsbt@ruby-lang.org"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Ruby wrapper of exiftool.}
+  spec.description   = %q{Ruby wrapper of exiftool.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
